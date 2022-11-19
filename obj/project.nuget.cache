@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wWLHSvOn+edzsX5KoB0QfaiC3zrr4SVxKH2kvLhJzQNa7rdFW5yHcY7oIBRWpFWL4AKVOBIn2LsOUVWRlL7SA==",
+  "success": true,
+  "projectFilePath": "/Users/ryannav/Desktop/Programming/C#/Knowledge/Knowledge.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryannav/.nuget/packages/dotenv.net/3.1.1/dotenv.net.3.1.1.nupkg.sha512",
+    "/Users/ryannav/.nuget/packages/mysqlconnector/2.2.0/mysqlconnector.2.2.0.nupkg.sha512",
+    "/Users/ryannav/.nuget/packages/spectre.console/0.45.0/spectre.console.0.45.0.nupkg.sha512",
+    "/Users/ryannav/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
